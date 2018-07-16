@@ -136,7 +136,7 @@ p {
 }
 
 .section-title {
-  margin-bottom: 70px;
+  /* margin-bottom: 70px; */
 }
 
 .section-title h2 {
@@ -189,7 +189,16 @@ p {
 
 .mb-30 {
   margin-bottom: 30px;
+  font-size: 2rem;
+}
 
+.mb-301{
+  margin-bottom: 10px;
+}
+
+.mb-300{
+  margin-bottom: 30px;
+  font-size: 25px;
 }
 
 .contact-block1{
